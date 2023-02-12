@@ -1,0 +1,17 @@
+ body {
+    background: #c7d6d5;
+ }
+input {
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    text-decoration: 20px;
+}
+button {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+}
+p {
+    font-size: 50px;
+}
